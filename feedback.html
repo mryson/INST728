@@ -1,0 +1,70 @@
+<!DOCTYPE HTML>
+<html>
+<meta http-equiv="Content-Type" content="text/html;" />
+
+<head>
+    <title>
+        FEEDBACK
+    </title>
+    <style>
+        th {
+            padding-bottom: 10px;
+            color: #9B3333;
+        }
+
+        .strong {
+            font-weight: bold;
+        }
+    </style>
+</head>
+
+<body>
+    <table width="100%" align="center" cellpadding="1" cellspacing="0" bgcolor="#FBEEEE">
+        <form name="feedback" method="post" action="thankyou.html">
+            <th>FEEDBACK</th>
+            </td>
+            </tr>
+            <tr>
+                <td class="strong">
+                    CaseID:
+                </td>
+                <td>
+                    <input type="text" placeholder="34564"> </br>
+                </td>
+            </tr>
+            <tr>
+                <td class="strong">
+                    Subject:
+                    <span style="color: red;">*</span>
+                </td>
+                <td>
+                    <input type="text" size="90"></br>
+                </td>
+            </tr>
+            <tr>
+                <td style="vertical-align: top;" class="strong">
+                    Comment:
+                </td>
+                <td>
+                    <textarea name="Comment" rows="10" cols="45">&nbsp;</textarea>
+                </td>
+            </tr>
+            <tr>
+                <td class="strong">
+                    Importance:
+                </td>
+                <td>
+                    <input type="radio" id="high" name="Importance" value="high"></input>
+                    <label for="high">High</label><br>
+                    <input type="radio" id="medium" name="Importance" value="medium"></input>
+                    <label for="medium">Medium</label><br>
+                    <input type="radio" id="low" name="Importance" value="low"></input>
+                    <label for="low">Low</label><br><br>
+                    <input type="submit" value="Submit">
+                </td>
+            </tr>
+        </form>
+    </table>
+</body>
+
+</html>
