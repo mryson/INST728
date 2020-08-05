@@ -1,70 +1,154 @@
 <!DOCTYPE HTML>
 <html>
-<meta http-equiv="Content-Type" content="text/html;" />
 
 <head>
-    <title>
-        FEEDBACK
-    </title>
-    <style>
-        th {
-            padding-bottom: 10px;
-            color: #9B3333;
-        }
-
-        .strong {
-            font-weight: bold;
-        }
-    </style>
+    <title>Feedback</title>
+    <meta http-equiv="Content-Type" content="text/html;" />
 </head>
+<style>
+    aside {
+        float: right;
+        width: 50px;
+        height: 370px;
+        background-color: #A83836;
+    }
+
+    body {
+        display: block;
+        margin-top: 2px;
+        margin-left: auto;
+        margin-right: auto;
+        width: 1000px;
+        background-color: #A83836;
+    }
+
+    footer {
+        float: left;
+        width: 980px;
+        text-align: center;
+        background-color: #FBEEEE;
+        padding: 10px;
+        margin-top: -16px;
+    }
+
+    header {
+        background-color: white;
+        width: 100%;
+    }
+
+    header img {
+        padding: 5px;
+    }
+
+    html {
+        background-color: #BB6161;
+    }
+
+    nav {
+        float: left;
+        background-color: #A83836;
+        height: 370px;
+        width: 270px;
+        padding-top: 10px;
+    }
+
+    nav a {
+        color: yellow;
+        padding-left: 20px;
+    }
+
+    nav img {
+        padding-left: 5px;
+    }
+
+    #content {
+        background-color: #A83836;
+        height: 440px;
+    }
+
+    #statement {
+        margin-top: -35px;
+    }
+
+    #tableContainer {
+        float: left;
+        background-color: #F0E7E2;
+        padding: 50px 40px 0 40px;
+        width: 600px;
+        height: 370px;
+        margin-top: 2px;
+    }
+
+    .strong {
+        font-weight: bold;
+    }
+</style>
 
 <body>
-    <table width="100%" align="center" cellpadding="1" cellspacing="0" bgcolor="#FBEEEE">
-        <form name="feedback" method="post" action="thankyou.html">
-            <th>FEEDBACK</th>
-            </td>
-            </tr>
-            <tr>
-                <td class="strong">
-                    CaseID:
-                </td>
-                <td>
-                    <input type="text" placeholder="34564"> </br>
-                </td>
-            </tr>
-            <tr>
-                <td class="strong">
-                    Subject:
-                    <span style="color: red;">*</span>
-                </td>
-                <td>
-                    <input type="text" size="90"></br>
-                </td>
-            </tr>
-            <tr>
-                <td style="vertical-align: top;" class="strong">
-                    Comment:
-                </td>
-                <td>
-                    <textarea name="Comment" rows="10" cols="45">&nbsp;</textarea>
-                </td>
-            </tr>
-            <tr>
-                <td class="strong">
-                    Importance:
-                </td>
-                <td>
-                    <input type="radio" id="high" name="Importance" value="high"></input>
-                    <label for="high">High</label><br>
-                    <input type="radio" id="medium" name="Importance" value="medium"></input>
-                    <label for="medium">Medium</label><br>
-                    <input type="radio" id="low" name="Importance" value="low"></input>
-                    <label for="low">Low</label><br><br>
-                    <input type="submit" value="Submit">
-                </td>
-            </tr>
-        </form>
-    </table>
+    <header>
+        <img id="logo" src="umd_logo.png" />
+    </header>
+    <div id="content">
+        <nav>
+            <img src="arrow.gif" /> <a href="feedback.html">Feedback</a>
+        </nav>
+        <aside>&nbsp;</aside>
+        <div id="tableContainer">
+            <p id="statement"><strong>Please complete following form</strong></p>
+            <div>
+                <form name="form1" method="post" action="thankyou.html">
+                    <table width="100%" align="center" cellpadding="1" cellspacing="0">
+                        <tr>
+                            <td>&nbsp;</td>
+                        </tr>
+                        <tr>
+                            <td bgcolor="#FBEEEE">
+                                <div align="center">
+                                    <table width="70%" cellpadding="0" cellspacing="0">
+                                        <tr>
+                                            <td width="498" height="40"><strong>
+                                                    <font color="#9B3333">FEEDBACK</font>
+                                                </strong></td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                <table width="100%" align="center" cellpadding="2" cellspacing="0">
+                                                    <tr>
+                                                        <td valign="top"><strong>CaseID:</strong></td>
+                                                        <td><input name="case_ID" type="text" value="34564" size="15" readonly></td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td valign="top"><strong>Subject:<font color="#FF0000">*</font></strong></td>
+                                                        <td><input name="subject" type="text" size="70" maxlength="40"></td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td valign="top"><strong>Comment:<font color="#FF0000">*</font>
+                                                            </strong></td>
+                                                        <td><textarea name="comment" cols="40" rows="10" id="comment"></textarea></td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td valign="top">&nbsp;</td>
+                                                        <td><input type="image" value="Submit" src="btn_submit.gif"></td>
+                                                    </tr>
+                                                </table>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td>&nbsp;</td>
+                                        </tr>
+                                    </table>
+                                </div>
+                            </td>
+                        </tr>
+                    </table>
+                </form>
+            </div>
+        </div>
+    </div>
+    <footer>
+        Copyright &copy; UMD All Rights Reserved
+    </footer>
+
 </body>
 
 </html>
