@@ -4,13 +4,37 @@
 <head>
     <title>Feedback</title>
     <meta http-equiv="Content-Type" content="text/html;" />
+
+    <script type="text/javascript">
+        function validate() {
+            if (document.form1.case_ID.value == "" || isNaN(document.form1.case_ID.value) ||
+                document.form1.case_ID.value.length != 5) {
+                alert("Please provide a CaseID in the format #####.");
+                document.form1.case_ID.focus();
+                return false;
+            }
+            if (document.form1.subject.value == "") {
+                alert("Please enter a subject!");
+                document.form1.subject.focus();
+                return false;
+            }
+            if (document.form1.comment.value == "") {
+                alert("Please write a comment");
+                document.form1.comment.focus();
+                return false;
+            }
+            return (true);
+        }
+    </script>
+
 </head>
 <style>
     aside {
         float: right;
         width: 50px;
         height: 370px;
-        background-color: #A83836;
+        background-image: url(bg1.gif);
+        padding-bottom: 55px;
     }
 
     body {
@@ -41,24 +65,27 @@
     }
 
     html {
-        background-color: #BB6161;
+        background-image: url(mainBgrnd.gif);
+        background-repeat: repeat-x;
     }
 
     nav {
         float: left;
-        background-color: #A83836;
+        background-image: url(bg1.gif);
         height: 370px;
         width: 270px;
-        padding-top: 10px;
+        padding: 10px 0 45px 0;
+    }
+
+    nav ul li {
+        list-style-image: url(arrow.gif);
+        margin-bottom: 8px;
+        margin-left: 30px;
     }
 
     nav a {
         color: yellow;
-        padding-left: 20px;
-    }
-
-    nav img {
-        padding-left: 5px;
+        padding-left: 10px;
     }
 
     #content {
@@ -79,6 +106,10 @@
         margin-top: 2px;
     }
 
+    #tableContainer div img {
+        width: 65%;
+    }
+
     .strong {
         font-weight: bold;
     }
@@ -90,13 +121,29 @@
     </header>
     <div id="content">
         <nav>
-            <img src="arrow.gif" /> <a href="feedback.html">Feedback</a>
+            <ul>
+                <li class="strong"><a href="feedback.html">Payroll Information</a></li>
+                <li><a href="feedback.html">Performance Appraisal</a></li>
+                <li><a href="feedback.html">TimeSheet</a></li>
+                <li><a href="feedback.html">Leave Management</a></li>
+                <li><a href="feedback.html">Health Benefits</a></li>
+                <li><a href="orgchart.html">Organization Chart</a></li>
+                <li class="strong"><a href="feedback.html">Access Management</a></li>
+                <li><a href="feedback.html">Career Development</a></li>
+                <li><a href="feedback.html">My Profile</a></li>
+                <li><a href="feedback.html">Expense Reimbursement</a></li>
+                <li><a href="feedback.html">Retirement Planning</a></li>
+                <li><a href="feedback.html">Ticket management</a></li>
+                <li><a href="feedback.html">Documents</a></li>
+                <li><a href="feedback.html">Feedback</a></li>
+            </ul>
+
         </nav>
         <aside>&nbsp;</aside>
         <div id="tableContainer">
             <p id="statement"><strong>Please complete following form</strong></p>
             <div>
-                <form name="form1" method="post" action="thankyou.html">
+                <form name="form1" method="post" action="thankyou.html" onsubmit="return(validate());">
                     <table width="100%" align="center" cellpadding="1" cellspacing="0">
                         <tr>
                             <td>&nbsp;</td>
@@ -115,7 +162,7 @@
                                                 <table width="100%" align="center" cellpadding="2" cellspacing="0">
                                                     <tr>
                                                         <td valign="top"><strong>CaseID:</strong></td>
-                                                        <td><input name="case_ID" type="text" value="34564" size="15" readonly></td>
+                                                        <td><input name="case_ID" type="text" value="34564" size="15"></td>
                                                     </tr>
                                                     <tr>
                                                         <td valign="top"><strong>Subject:<font color="#FF0000">*</font></strong></td>
