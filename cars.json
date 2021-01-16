@@ -8,6 +8,7 @@
    "MSRP_Orig_Starting": 500,
    "Average_Retail": null,
    "Price_Source": "",
+   "Nation": "American",
    "Annual_Avg": 15,
    "Notes": "Wikipedia.com",
    "Description": "The very first Ford Model T rolled off a very new automotive assembly line in 1908 and truly gave America its first affordable wheels. A decade later, only 1 and 13 families owned a car, but it’s very likely that car was Ford’s wildly successful Model T. The 20 hp engine was modest with a top speed of around 45 mph. But speed mattered little to Model T buyers because the car was almost half of all cars sold in the U.S. The Model T got less expensive as it got older and continued to be a strong seller with 15 million finding homes until 1927 when the car was replaced by the Model A."
@@ -20,6 +21,7 @@
    "MSRP_Orig_Starting": 785,
    "Average_Retail": null,
    "Price_Source": "",
+   "Nation": "American",
    "Annual_Avg": 17.3,
    "Notes": "History.com",
    "Description": "The Dodge Brothers, Horace and John, were a force in the early automotive industry, supplying engines for Oldsmobile and actually building complete cars for Ford. Their first car arrived in 1915 with a modest 35 hp four-cylinder engine. In 1919, the company introduced its first four-door enclosed steel roofed sedan. Sadly, both Dodge brothers died just one year later. And in 1928, the company was sold to the Chrysler Corporation."
@@ -32,6 +34,7 @@
    "MSRP_Orig_Starting": 2700,
    "Average_Retail": 66000,
    "Price_Source": "",
+   "Nation": "American",
    "Annual_Avg": 20,
    "Notes": "Sportscarmarket.com",
    "Description": "Detroit Electric produced some of the earliest EVs and could travel about 80 miles between charges. One modified Detroit set a record, traveling 241 miles on a charge. These EVs only had a top speed of around 20 mph, so they were mainly used as dependable inner city transportation. Sales of the Detroit Electric would slide throughout the 1920s thanks to improved internal combustion engines. By the time the company finally ceased operations in 1939, it had produced around 13,000 EVs."
@@ -44,6 +47,7 @@
    "MSRP_Orig_Starting": 4300,
    "Average_Retail": null,
    "Price_Source": "",
+   "Nation": "American",
    "Annual_Avg": 17.9,
    "Notes": "ConceptCarz.com",
    "Description": "After spending its earliest years producing Lincoln aircraft engines for WWI, the company began automobile production. The very first Lincoln, the L Series, rode on a long 130-inch wheelbase and was powered by an 81 horsepower V8. Although this was a brand-new car company and a brand-new car, the design was dated as soon as it hit dealers and sales weren’t strong. Just one year later, the company was in rough shape financially and was sold to Ford who turned it into a luxury car powerhouse, including this coupe designed by Brunn & Company in 1923."
@@ -56,6 +60,7 @@
    "MSRP_Orig_Starting": 19990,
    "Average_Retail": null,
    "Price_Source": "",
+   "Nation": "American",
    "Annual_Avg": 16.8,
    "Notes": "Popularmechanics.com",
    "Description": "In the 1920s, America was flirting with alternative fuels—and steam was one of them. The Doble Steam Motors Corporation began production of their cars in 1922, but just 36 were built through 1931. One of them is owned by Jay Leno. There’s no need for a transmission thanks to the steam engine’s incredible torque. Leno once wrote in PM, “Open the hand throttle and acceleration from a dead stop is smooth and continuous. The Doble just continues to pull all the way. It only has about 150 hp, but the torque output is huge: 2200 lb-ft at the rear wheels.” "
@@ -68,6 +73,7 @@
    "MSRP_Orig_Starting": 3060,
    "Average_Retail": null,
    "Price_Source": "",
+   "Nation": "Italian",
    "Annual_Avg": 17.1,
    "Notes": "Approx.  Required Conversion from Lira",
    "Description": "The new Lambda was a technical masterpiece for Lancia. Most notably, the Italian sports tourer pioneered the use of monocoque construction instead of the heavier body-on-frame designs that were the norm at the time. The Lambda was the first with this weight-saving engineering and decades ahead of other carmakers. The Lambda also broke new ground with its independent front suspension system, and was the first automaker to use a V4 engine. Lancia would use V4 engines in cars through the 1960s."
@@ -80,6 +86,7 @@
    "MSRP_Orig_Starting": 1350,
    "Average_Retail": null,
    "Price_Source": "",
+   "Nation": "American",
    "Annual_Avg": 17.1,
    "Notes": "How Stuff Works.com",
    "Description": "Oakland, part of the GM empire at the time, was one notch up from Chevy and was a strong seller. Oakland received updated bodywork for 1924 as well as some technical innovations like a new quick-drying paint from Dupont and four-wheel brakes—very rare at the time. Oakland’s new six-cylinder was less “advanced” than the one it replaced but offered greater reliability. The first Pontiac was actually an Oakland model. And the strong sales of those earliest Pontiacs convinced GM it should become its own brand. That eventually led to Oakland ceasing production."
@@ -92,6 +99,7 @@
    "MSRP_Orig_Starting": 11750,
    "Average_Retail": 255003,
    "Price_Source": "",
+   "Nation": "British",
    "Annual_Avg": 17.5,
    "Notes": "ConceptCarz.com",
    "Description": "The Phantom replaced the legendary Rolls Royce 40/50 (Silver Ghost) which had been in service for almost 20 years and had a well-deserved reputation for luxury as well as reliability. The new Phantom was elegant, modern and had an improved 7.7-liter six-cylinder engine as well as disc brakes. A Springfield, Massachusetts factory had been building Rolls Royce cars since 1921 and produced the new Phantom. However British built Phantoms had unique equipment and options compared to their American counterparts."
@@ -104,6 +112,7 @@
    "MSRP_Orig_Starting": 3195,
    "Average_Retail": 7975,
    "Price_Source": "https://www.nadaguides.com/Cars/1926/Chrysler/E80/2-Door-Coupe-4-Passenger/Values",
+   "Nation": "American",
    "Annual_Avg": 17.7,
    "Notes": "Nada",
    "Description": "Imperial models were the pinnacle of Chrysler’s lineup and aimed to compete with luxury marques like Cadillac and Lincoln. The first Imperials were available as a roadster, sedan, a four-door convertible Phaeton and a limousine. They were powered by a 92 hp (very strong at the time) six-cylinder engine. Chrysler “guaranteed” these cars could cruise at a steady 80 mph—hence the car’s name. The Imperial 80 was selected to be the pace car for the 14th running of the Indy 500 in 1926. Imperial officially became its own brand from 1955-1975."
@@ -116,6 +125,7 @@
    "MSRP_Orig_Starting": 2635,
    "Average_Retail": 25300,
    "Price_Source": "https://www.nadaguides.com/Cars/1927/La-Salle/303/2-Door-Victoria-4-Passenger/Values",
+   "Nation": "American",
    "Annual_Avg": 17.4,
    "Notes": "Nada",
    "Description": "In the 1920s, General Motors attempted to woo price-sensitive car buyers with new marques that filled the space in-between the company’s existing brands. LaSalle was born to attract customers looking for a more upscale car than Buick offered but one that was also less expensive than a Cadillac. LaSalles were downright gorgeous machines and the very first one was designed by Harley Earl who would go on to direct GM design for decades. LaSalles shared many parts and assemblies with Cadillac. So, in many ways these cars were more stylish Cadillacs at a less expensive price point. LaSalle lasted until 1940."
@@ -128,6 +138,7 @@
    "MSRP_Orig_Starting": 11000,
    "Average_Retail": null,
    "Price_Source": "",
+   "Nation": "American",
    "Annual_Avg": 17.2,
    "Notes": "auto.howstuffworks.com",
    "Description": "The elegant Duesenberg Model J was an exotic sports car and fashion statement all wrapped up in one. The standard eight-cylinder engine produced an astonishing 265 hp. But with the supercharger, optional on later cars, that number rose to a staggering 320 hp. A supercharged Duesy was quick. The car’s bodywork came from a variety of custom coachbuilders around the world, so no two were exactly alike. The most expensive ones touched $25,000 at the time and were so exquisitely crafted they drew movie stars and industry moguls as owners."
@@ -140,6 +151,7 @@
    "MSRP_Orig_Starting": 595,
    "Average_Retail": 13500,
    "Price_Source": "https://www.nadaguides.com/Cars/1929/Chevrolet/AC-International/2-Door-Coupe-2-Passenger/Values",
+   "Nation": "American",
    "Annual_Avg": 17.2,
    "Notes": "Nada",
    "Description": "By the close of the decade, 4 out of 5 families now owned a car. And low-priced cars were the backbone of the auto industry. Chevy launched into this market the AC International with a new “Stovebolt” six-cylinder engine upstaging Ford’s four-cylinder models. The Stovebolt nickname came from the bolts on the inline-six’s cylinder head that resembled those on a wood-burning stove and offered smoother, quieter operation than its four-cylinder rivals.  Still, Ford dominated sales in 1929 pushing the new Chevy slightly behind to the number 2 spot."
@@ -152,6 +164,7 @@
    "MSRP_Orig_Starting": 9900,
    "Average_Retail": null,
    "Price_Source": "",
+   "Nation": "British",
    "Annual_Avg": 16.7,
    "Notes": "Approx.  Required Conversion from Pounds",
    "Description": "The 8 Litre was the last car designed by company founder W.O. Bentley and it was the final car launched before Bentley was purchased by Rolls-Royce. The 8 litre’s massive 7.9-liter straight-six engine was a beast, delivering approximately 230 hp and a top speed of just over 100 mph in this luxurious grand tourer. In fact, Bentley promised every 8-Litre would hit 100 mph no matter what bodywork the car wore. At the time Bentley himself claimed the car was “dead silent” at 100 mph."
@@ -164,6 +177,7 @@
    "MSRP_Orig_Starting": 5250,
    "Average_Retail": 525236,
    "Price_Source": "",
+   "Nation": "American",
    "Annual_Avg": 15.2,
    "Notes": "ConceptCarz.com",
    "Description": "Marmon’s reputation for speed came from its 1911 win of the inaugural Indy 500 with the Wasp roadster. Throughout the teens and early 1920s, the aluminum-intensive Model 34 was the sports-tourer of choice for those that were attracted to style and performance. But the pinnacle of speed and prestige came when the company built the Sixteen. The V16 engine was nearly 500 cubic-inches and delivered a solid 200 hp. It was as beautiful as it was expensive and by 1933 Marmon had only moved 400 of them. That year, the company produced its final cars."
@@ -176,6 +190,7 @@
    "MSRP_Orig_Starting": 460,
    "Average_Retail": 59100,
    "Price_Source": "https://www.nadaguides.com/Cars/1932/Ford/Model-V-18/2-Door-Roadster-2-Passenger/Values",
+   "Nation": "American",
    "Annual_Avg": 13.6,
    "Notes": "Nada",
    "Description": "This is the car that started Americans down the path to hot rodding, land speed racing and drag racing. The “Deuce” had an immeasurable impact on car culture. What made it so popular? The little Ford not only had handsome lines and a cheap pricetag but had an optional flathead V8, which made them quicker than the competition. And that encouraged backyard mechanics to tinker, modify and race these cars. Even today, 1932 Fords are the mainstay at any hot rod meet."
@@ -200,6 +215,7 @@
    "MSRP_Orig_Starting": 1345,
    "Average_Retail": 24800,
    "Price_Source": "https://www.nadaguides.com/Cars/1934/Chrysler/CU-Airflow/2-Door-Coupe/Values",
+   "Nation": "American",
    "Annual_Avg": 13.4,
    "Notes": "Nada",
    "Description": "Most of the country’s automotive production took a dive during the Great Depression. But Chrysler not only saw an uptick in 1933 but was ready to unveil its radical and inspiring Airflow. The Airlflow’s design was not only shaped by the wind tunnel but it showed the way cars would look in the decade to come. The Airflow wasn’t a hit with the public, many buyers at the time preferred a more traditional look."
@@ -212,6 +228,7 @@
    "MSRP_Orig_Starting": 515,
    "Average_Retail": 14400,
    "Price_Source": "https://www.nadaguides.com/Cars/1935/Chevrolet/EC-Deluxe/1-2-Ton-Standard-Sedan/Values",
+   "Nation": "American",
    "Annual_Avg": 13.7,
    "Notes": "not sure if this is the correct model",
    "Description": "Today’s SUV and crossover craze owes its very existence to the Suburban. Plus, this Chevy is the oldest continuously produced automotive nameplate in America. The original 8-passenger enclosed wagon was built upon a light truck chassis as it is today. However, the first ones only had two doors and a tailgate. The 90 hp six-cylinder engine certainly didn’t have an easy time moving the heft but that didn’t hamper the Suburban’s capability. And through eleven different bodystyles the ‘Burban thrived for the next 83 years."
@@ -224,6 +241,7 @@
    "MSRP_Orig_Starting": 59000,
    "Average_Retail": 35000000,
    "Price_Source": "",
+   "Nation": "French",
    "Annual_Avg": 13.9,
    "Notes": "Enacademic.com",
    "Description": "It’s easy to see why the Type 57 Atlantic always occupies a top spot on every “World’s Most Beautiful Cars” list. It’s a stunner and worth north of $40 million. Only four of them were ever built, so it’s unlikely your great grandparents ever saw one of these cruising through town. The aluminum-bodied car was light and fast, thanks to its 210 hp supercharged straight-eight. Many consider this Bugatti to be the very first “supercar”."
@@ -236,6 +254,7 @@
    "MSRP_Orig_Starting": 2645,
    "Average_Retail": 132300,
    "Price_Source": "https://www.nadaguides.com/Cars/1937/Cord/812/Front-Drive-2-Door-Phaeton-Convertible-Sedan/Values",
+   "Nation": "American",
    "Annual_Avg": 14.4,
    "Notes": "Nada",
    "Description": "The front-drive Cord 810/812s were innovative high-performance cars in their day. When equipped with the optional Lycoming supercharger, the Cord boasted 170 hp (although some say that number is closer to 195 hp) and went on to set a 24-hour speed record of 80 mph at Indy. Even today, the Cord’s sleek bodywork with covered headlamps look like nothing else on the road. Sadly, this gorgeous car was only produced from 1936 to 1937, when Cord went out of business."
@@ -248,6 +267,7 @@
    "MSRP_Orig_Starting": 2905,
    "Average_Retail": 27100,
    "Price_Source": "https://www.nadaguides.com/Cars/1937/Cadillac/Fleetwood-70/2-Door-Coupe/Values",
+   "Nation": "American",
    "Annual_Avg": 14.1,
    "Notes": "1937 Cost – Wikipedia Claims It’s the last V16",
    "Description": "Cadillac led the world with a V16 engine in 1930, and the engine and car itself received thorough redesign in 1938. Horsepower rose to a very healthy 185. These massive cars hit the scales with an SUV-like 5,700 pounds but were still some of the quickest of their time. The big sixteen cylinder engines were known for their smoothness as was the ride of the Cadillac’ chassis. Sadly “sixteen” production ended in 1940 as did the La Salle sub-brand. From that point until the 1980s, all Cadillacs used V8s. (1937 Cost Shown.)"
@@ -260,6 +280,7 @@
    "MSRP_Orig_Starting": 1404,
    "Average_Retail": 152300,
    "Price_Source": "",
+   "Nation": "American",
    "Annual_Avg": 13.9,
    "Notes": "",
    "Description": "This second generation of Packard’s mid-range luxury car line, named “120” after it’s wheelbase, was redesigned for 1939 but lost none of the original’s rugged reliability. Packard’s 120 hp straight-eight provided solid performance, especially with the new “Econo-drive”, a primitive electronic overdrive supplied by Borg Warner. The transmission shifter itself was moved to the steering column, freeing up floorspace. Engineers also used a “fifth” shock absorber mounted in the center of the chassis to damp out unruly road conditions. "
@@ -272,6 +293,7 @@
    "MSRP_Orig_Starting": 1095,
    "Average_Retail": 18400,
    "Price_Source": "https://www.nadaguides.com/Cars/1939/Graham/97/4-Door-Sedan-Supercharged/Values",
+   "Nation": "American",
    "Annual_Avg": 14,
    "Notes": "Nada",
    "Description": "The Graham “Sharknose” models were in their final year by 1940 but still looked radical. The forward cant of the car’s frontend made them appear fast and aggressive, even while parked. The plain-vanilla models had 90 hp but supercharged six-cylinder cars offered 120 hp. The car’s original and avant-garde design didn’t resonate with mainstream buyers. So, it was replaced for a more traditional (boring) style. Today, these are rare cars—even at the biggest collector car shows."
@@ -284,6 +306,7 @@
    "MSRP_Orig_Starting": 1195,
    "Average_Retail": 21500,
    "Price_Source": "https://www.nadaguides.com/Cars/1941/Buick/60-Century/2-Door-Business-Coupe/Values",
+   "Nation": "American",
    "Annual_Avg": 14.7,
    "Notes": "Nada",
    "Description": "Though the captivating Century already had a reputation as a stylish performance car, the Buick gained more power for 1941. The Fireball straight eight-cylinder engine made 165 hp thanks to “compound carburetion” (dual carbs), and that meant this Buick was one of America’s most powerful cars. It could top out at over 100 mph and cruise comfortably at 80 mph, which was certainly impressive for the time. The Century helped establish Buick as a performance brand for GM."
@@ -296,6 +319,7 @@
    "MSRP_Orig_Starting": 3174,
    "Average_Retail": 27700,
    "Price_Source": "https://www.nadaguides.com/Cars/1942/Lincoln/Continental/2-Door-Coupe/Values",
+   "Nation": "American",
    "Annual_Avg": 16.3,
    "Notes": "Nada",
    "Description": "The 1942 model was the Continental’s last year before automakers halted production to supply parts and vehicles for WWII. But this Lincoln was one of the few that year that saw some minor design revisions, including redesigned frontend sheetmetal. Under the hood, Lincolns big 292 cid, 130 hp V12 remained. It’s estimated that just 136 of these beautiful Continentals were built in 1942."
@@ -308,6 +332,7 @@
    "MSRP_Orig_Starting": 1090,
    "Average_Retail": null,
    "Price_Source": "",
+   "Nation": "American",
    "Annual_Avg": 17.3,
    "Notes": "jeep.com",
    "Description": "Since the world was at war, global new vehicle production for civilians was paused. And certainly, the most significant new vehicle to come out of this period was built for the U.S. military— the Willys MB. Of course, the “Jeep” was central to the success of the allied war effort. But post war, 1945 Willys production shifted to the civilian CJ2A which became popular with farmers and ranchers. The first CJ models retailed for just over $1,000 and of course went on to become the granddaddy of all 4x4s and the genesis for the Jeep brand we know today."
@@ -320,6 +345,7 @@
    "MSRP_Orig_Starting": 1090,
    "Average_Retail": null,
    "Price_Source": "",
+   "Nation": "American",
    "Annual_Avg": 17.6,
    "Notes": "jeep.com",
    "Description": "Since the world was at war, global new vehicle production for civilians was paused. And certainly, the most significant new vehicle to come out of this period was built for the U.S. military— the Willys MB. Of course, the “Jeep” was central to the success of the allied war effort. But post war, 1945 Willys production shifted to the civilian CJ2A which became popular with farmers and ranchers. The first CJ models retailed for just over $1,000 and of course went on to become the granddaddy of all 4x4s and the genesis for the Jeep brand we know today."
@@ -332,6 +358,7 @@
    "MSRP_Orig_Starting": 1090,
    "Average_Retail": null,
    "Price_Source": "",
+   "Nation": "American",
    "Annual_Avg": 18,
    "Notes": "jeep.com",
    "Description": "Since the world was at war, global new vehicle production for civilians was paused. And certainly, the most significant new vehicle to come out of this period was built for the U.S. military— the Willys MB. Of course, the “Jeep” was central to the success of the allied war effort. But post war, 1945 Willys production shifted to the civilian CJ2A which became popular with farmers and ranchers. The first CJ models retailed for just over $1,000 and of course went on to become the granddaddy of all 4x4s and the genesis for the Jeep brand we know today."
@@ -344,6 +371,7 @@
    "MSRP_Orig_Starting": 2743,
    "Average_Retail": 133700,
    "Price_Source": "https://www.nadaguides.com/Cars/1946/Chrysler/New-Yorker-Town-and-Country/2-Door-Convertible/Values",
+   "Nation": "American",
    "Annual_Avg": 19.5,
    "Notes": "Nada",
    "Description": "Before the nameplate was synonymous with 1980s minivans, Town and Country meant “woodie”. The Town and Country was a steel-roofed station wagon prior to WWII with real wood siding and a third row of seats. But when the Town and Country returned for ’46, it was launched as a stylish convertible using white ash wood and mahogany. In 1947, some of that wood trim was replaced with a faux material. The last woodies of this era hit the road in 1950."
@@ -356,6 +384,7 @@
    "MSRP_Orig_Starting": 1628,
    "Average_Retail": 26600,
    "Price_Source": "https://www.nadaguides.com/Cars/1947/Chevrolet/Fleetmaster/2-Door-Convertible/Values",
+   "Nation": "American",
    "Annual_Avg": 22.3,
    "Notes": "Nada – Convertible shown in photo",
    "Description": "The Chevrolet Fleetmaster didn’t change for the 1947 model year and this mainsteam sedan carried styling that really echoed the late 1930s. But the country just didn’t care that it looked old. Car buyers were eager for new cars and surprisingly, this Chevy was America’s best-selling car for 1947. General motors moved a whopping 684,145 of them. "
@@ -368,6 +397,7 @@
    "MSRP_Orig_Starting": 2450,
    "Average_Retail": 1618900,
    "Price_Source": "https://www.nadaguides.com/Cars/1948/Tucker/Torpedo/4-Door-Sedan/Values",
+   "Nation": "American",
    "Annual_Avg": 24,
    "Notes": "Nada",
    "Description": "The revolutionary Tucker Torpedo was short-lived (just one year and only 51 cars produced) but it was packed with promise and innovation. The car had an aero bodyshell, a rear-mounted flat six-cylinder engine and a four-wheel independent suspension. The Tucker was brimming with safety tech too: a third headlight pivoted when you turned, disc brakes were standard and almost unheard of at that time, a padded dash as well as a pop-out windshield were there to protect occupants’ heads during a collision. Today these rare Tuckers can sell for upwards of $3 million."
@@ -380,6 +410,7 @@
    "MSRP_Orig_Starting": 2225,
    "Average_Retail": null,
    "Price_Source": "",
+   "Nation": "American",
    "Annual_Avg": 23.8,
    "Notes": "Auto Museum Online",
    "Description": "Few cars were embraced more strongly into custom car culture than the 1949 Merc. The streamlined sedan was a radical break from the previous year’s model, which still had pronounced fenders and a large, peaked hood. The smooth new Merc had an upsized Flathead V8 and that helped it triple the sales of the old model. This Merc is still popular for the hot rodders that modify them today. "
@@ -392,6 +423,7 @@
    "MSRP_Orig_Starting": 1280,
    "Average_Retail": 21800,
    "Price_Source": "https://www.nadaguides.com/Cars/1950/Volkswagen/Beetle/2-Door-Sedan/Values",
+   "Nation": "German",
    "Annual_Avg": 24.1,
    "Notes": "Nada",
    "Description": "Technically the first Beetles arrived in the U.S. in 1949—but just two were sold. Just over 150 of the economical and jovial micro machines moved off dealership lots the next year. Around 23-million of them have been sold globally which makes the Beetle one of the best-selling cars in history. And from this humble and simply engineered bug, VW grew to become one of the largest automotive companies in the world."
@@ -404,6 +436,7 @@
    "MSRP_Orig_Starting": 2568,
    "Average_Retail": 15800,
    "Price_Source": "https://www.nadaguides.com/Cars/1951/Hudson/Hornet/4-Door-Sedan/Values",
+   "Nation": "American",
    "Annual_Avg": 26,
    "Notes": "Nada",
    "Description": "The Hudson Hornet was a race car in disguise. This low-slung sedan (thanks to the “step-down” frame) handled better than most cars of the day. And the “Twin H” straight Six was powerful, torquey, and could be modified to produce even more in the hands of race mechanics like Smokey Yunick. It was a legendary NASCAR-winning machine and piled up 80 wins between 1951 and 1955."
@@ -416,6 +449,7 @@
    "MSRP_Orig_Starting": 17350,
    "Average_Retail": null,
    "Price_Source": "",
+   "Nation": "British",
    "Annual_Avg": 26.6,
    "Notes": "hemmings.com",
    "Description": "While the U.S. auto industry was reeling from a steel strike, the Brits launched one of the prettiest coupes of 1950s, the stylish Type-R Continental—and it was fast, too. The big Bentley could top out at 115 mph, a speed few cars could reach at the time. Occupants were treated to plush surroundings as they motored along at triple digit speeds. Only 208 of these cars were produced until production ended in 1955."
@@ -428,6 +462,7 @@
    "MSRP_Orig_Starting": 3513,
    "Average_Retail": 216200,
    "Price_Source": "https://www.nadaguides.com/Cars/1953/Chevrolet/Corvette/2-Door-Convertible/Values",
+   "Nation": "American",
    "Annual_Avg": 26.8,
    "Notes": "Nada",
    "Description": "The birth of a legend. The Corvette was a stunner the moment it hit the road in 1953. It was America’s first sports car and would remain unchallenged for many years. The Corvette engineers of course wanted V8 power for the Vette but had to settle for the “Blue Flame Six” until 1955. Every ’53 Vette was a softop convertible with a fiberglass body and detachable side windows. Only three hundred of these first-year Corvettes were built and every one of them was painted Polo White."
@@ -440,6 +475,7 @@
    "MSRP_Orig_Starting": 7028,
    "Average_Retail": 38300,
    "Price_Source": "https://www.nadaguides.com/Cars/1954/Mercedes-Benz/300/4-Door-Sedan/Values",
+   "Nation": "German",
    "Annual_Avg": 26.9,
    "Notes": "Nada",
    "Description": "The 300SL is a sports car icon and was pretty wild for the 1950s. Those swing-up Gullwing doors dropped jaws then as they do today. Under the hood was a fuel-injected six-cylinder with a stout 240 hp. Thanks to the lightweight space-frame construction, the Gullwing was quick, too.  The four-wheel independent suspension meant it handled very well. Racing versions dominated nearly all the road races of the day. Mercedes-Benz produced just 167 of these famous cars in this very first year of production, and today they are typically worth over $1 million."
@@ -452,6 +488,7 @@
    "MSRP_Orig_Starting": 2672,
    "Average_Retail": 17100,
    "Price_Source": "",
+   "Nation": "French",
    "Annual_Avg": 26.8,
    "Notes": "Matt’s approx.  Required Conversion from Francs",
    "Description": "The futuristic-looking Citroen DS was more like a U.F.O. than a conventional sedan. The French four-door used tech that was very uncommon for the day and Citroen proclaimed it was the most advanced car in the world. The front-drive machine had a hydro-pneumatic suspension that provided one of the smoothest rides of any car in the day. And the advanced twin-clutch semi-automatic transmission sounds like a feature that would be home on any car today. In fact, the DS was so forward-looking, production continued until 1975."
@@ -464,6 +501,7 @@
    "MSRP_Orig_Starting": 9695,
    "Average_Retail": 38900,
    "Price_Source": "https://www.nadaguides.com/Cars/1956/Lincoln/Continental/Mark-II-2-Door-Sport-Coupe/Values",
+   "Nation": "American",
    "Annual_Avg": 27.2,
    "Notes": "Nada",
    "Description": "Lincoln’s Continental luxury brand created a true design masterpiece when it launched the Mark II personal luxury coupe. It was also hideously expensive, costing over $10,000 at the time if you opted for air conditioning. The 285 hp V8 powered coupe weighed nearly 5,000 pounds so it wasn’t exactly quick. But it was luxurious and assembled with the care and craftsmanship on par with the best in the world at that time. Less than 3,000 of them were built before production ended in 1957."
@@ -476,6 +514,7 @@
    "MSRP_Orig_Starting": 2222,
    "Average_Retail": 21500,
    "Price_Source": "https://www.nadaguides.com/Cars/1957/Chevrolet/210/2-Door-Sedan/Values",
+   "Nation": "American",
    "Annual_Avg": 28.1,
    "Notes": "Nada",
    "Description": "The ’57 Chevy is one of the world’s most recognizable classic cars and an icon of the 1950s. It was the final year of the “tri-five” Chevys and to many, the most attractive. The classic fins reached their largest on this model and the Bel Air Trim, especially convertible models, were the swankiest. The top engine was a fuel injected V8 with 283 hp making the ’57 qualify as a muscle car before the term existed. The rarest? A ’57 Nomad wagon. Less than 7,000 were built."
@@ -488,6 +527,7 @@
    "MSRP_Orig_Starting": 3346,
    "Average_Retail": 16400,
    "Price_Source": "https://www.nadaguides.com/Cars/1958/Edsel/Corsair/2-Door-Hardtop/Values",
+   "Nation": "American",
    "Annual_Avg": 28.9,
    "Notes": "Nada",
    "Description": "To fill the white space in the company’s branding between Ford and Mercury, Ford created the Edsel—named after Henry Ford’s son. Edsel was a funky name for a car to be sure, and it didn’t resonate with fifties folks. Neither did the car’s odd styling, most notably, that oval grill.  The Edsel models did have interesting tech like a Rolling Dome speedo and a push button transmission. Only 116,000 of them were built by 1960, which was not enough to break even on the investment. Today, Edsels have become collectible with top models valued at $30,000."
@@ -500,6 +540,7 @@
    "MSRP_Orig_Starting": 1340,
    "Average_Retail": null,
    "Price_Source": "",
+   "Nation": "British",
    "Annual_Avg": 29.2,
    "Notes": "Hagerty.com",
    "Description": "While American car giants were still obsessing over tailfins, the British Motor Company (BMC) Mini hit the road and surprised the world with its tidy proportions. The Mini was cute, but it also had a surprising amount of room inside thanks to a transverse engine and wide track. It handled well and became a very unlikely but very successful rally racer. "
@@ -512,6 +553,7 @@
    "MSRP_Orig_Starting": 1984,
    "Average_Retail": 6275,
    "Price_Source": "https://www.nadaguides.com/Cars/1960/Chevrolet/Corvair-500/2-Door-Club-Coupe/Values",
+   "Nation": "American",
    "Annual_Avg": 29.6,
    "Notes": "Nada",
    "Description": "The Corvair was a wildly different car for GM. It had a flat-six engine mounted in the rear like a VW. And that freed up load of interior space. There was even a turbo model that came later for improved performance. But the Corvair’s reputation was famously blackened by Ralph Nader’s 1965 book “Unsafe at Any Speed”. The fallout from the book encouraged a redesign of the rear suspension for more predictable handling."
@@ -524,6 +566,7 @@
    "MSRP_Orig_Starting": 5895,
    "Average_Retail": 142100,
    "Price_Source": "https://www.nadaguides.com/Cars/1961/Jaguar/XKE/2-Door-Coupe-Flat-Floor/Values",
+   "Nation": "British",
    "Annual_Avg": 29.9,
    "Notes": "Nada",
    "Description": "Few could argue that the E-Type Jaguar is one of the most beautiful cars ever produced. And when it landed at the beginning of the 1960s, it was a stunner. The strong 265 hp straight six engine helped push this machine to nearly 150 mph. That was an astonishing number in 1961. The design evolved through the 1970s. But these earliest ones are the style icons."
@@ -536,6 +579,7 @@
    "MSRP_Orig_Starting": 4445,
    "Average_Retail": null,
    "Price_Source": "",
+   "Nation": "American",
    "Annual_Avg": 30.3,
    "Notes": "danjedlicka.com",
    "Description": "This eccentric-looking performance luxury coupe from Studebaker only lasted a year or so and just under 4,500 of them were built. But the fiberglass body’s design was heralded as such a masterpiece that others continued to produce versions of the car under various owners, billed as the Avanti II (with all variety of chassis and engines) all the way up to 2006."
@@ -548,6 +592,7 @@
    "MSRP_Orig_Starting": 4333,
    "Average_Retail": 23500,
    "Price_Source": "https://www.nadaguides.com/Cars/1963/Buick/Riviera/2-Door-Hardtop/Values",
+   "Nation": "American",
    "Annual_Avg": 30.6,
    "Notes": "Nada",
    "Description": "The Buick Riviera was one of the most elegant American cars to come from the 1960s. The styling was unlike anything else GM or Buick had at the time and under the hood the 325 hp V8 made for strong acceleration. The Riv had a beautifully trimmed interior with four bucket-type seats, gleaming metal, and real wood. The Riviera was respected around the world for its design and performance."
@@ -560,6 +605,7 @@
    "MSRP_Orig_Starting": 2810,
    "Average_Retail": 76000,
    "Price_Source": "https://www.nadaguides.com/Cars/1964/Pontiac/GTO/2-Door-Convertible/Values",
+   "Nation": "American",
    "Annual_Avg": 31,
    "Notes": "Nada",
    "Description": "Most credit the birth of the American muscle car era with the launch of the GTO. The formula for the GTO was simple: cram big horsepower into a small package and watch the young buyers line up to buy one. The Tempest-bodied GTO not only had a massive 389 cid V8 with up to 348 hp, but a firmer suspension, special tires, and even a pair of hood scoops (although in this generation they didn’t actually scoop air into the engine).  The GTO was a quick machine. Automakers rushed to get their own performance models into production."
@@ -572,6 +618,7 @@
    "MSRP_Orig_Starting": 6370,
    "Average_Retail": 6370,
    "Price_Source": "https://www.nadaguides.com/Cars/1965/Porsche/911/2-Door-Coupe/Values",
+   "Nation": "German",
    "Annual_Avg": 31.5,
    "Notes": "Nada",
    "Description": "The Porsche 911 typified the cool and stylish 1960s sports car. And ’65 was the first full year of the car’s production. The earliest flat-six cylinder engines weren’t particularly strong. But as the 911 itself and its engines grew in size, so too did the horsepower and a racing pedigree was established. The 911 became a performance powerhouse for Porsche on road or track and certainly remains so to this day."
@@ -584,6 +631,7 @@
    "MSRP_Orig_Starting": 6900,
    "Average_Retail": 922100,
    "Price_Source": "https://www.nadaguides.com/Cars/1966/Lamborghini/Miura/P400-2-Door-Coupe/Values",
+   "Nation": "Italian",
    "Annual_Avg": 32.5,
    "Notes": "Nada",
    "Description": "The impossibly gorgeous Lamborghini Miura essentially kick-started the modern supercar era. This car must have looked otherworldly parked on the street in the 1960s. The 350 hp, four cam V12 and 5-speed manual were mounted sideways just behind the driver for optimal balance. Even Ferraris at the time were still mounting their motors up front. The best ones today can cost more than $1 million. "
@@ -596,6 +644,7 @@
    "MSRP_Orig_Starting": 2809,
    "Average_Retail": 30500,
    "Price_Source": "https://www.nadaguides.com/Cars/1967/Chevrolet/Camaro/2-Door-Convertible/Values",
+   "Nation": "American",
    "Annual_Avg": 33.4,
    "Notes": "Nada – Convertible shown in photo",
    "Description": "Chevrolet finally answered Ford in 1967 when it launched the Camaro to battle the Mustang. The Chevy could be optioned with engines as large as the massive 396 cid V8 with 375 hp. But it was the handling of the Z28, that went on to make history. The freely-revving 290 hp V8 and stiff suspension of the Z28 made the Camaro a backcountry hustler and a very competitive race machine. "
@@ -608,6 +657,7 @@
    "MSRP_Orig_Starting": 3506,
    "Average_Retail": 32600,
    "Price_Source": "https://www.nadaguides.com/Cars/1968/Dodge/Charger-R-T/2-Door-Hardtop-440/Values",
+   "Nation": "American",
    "Annual_Avg": 34.8,
    "Notes": "Nada",
    "Description": "The musclecar movement was peaking in the late 1960s and the new Charger with its swoopy styling was one of the best-looking of the period. It’s design made the Charger very competitive in NASCAR racing, too. Top models could be optioned with the legendary 426 cid Hemi V8 or the more streetable 440 cid “six-pack” V8.  This Charger bodystyle is probably most famous found for its role as the “General Lee” on the Dukes of Hazzard TV show of the late 1970s and early 1980s."
@@ -620,6 +670,7 @@
    "MSRP_Orig_Starting": 4798,
    "Average_Retail": 273100,
    "Price_Source": "https://www.nadaguides.com/Cars/1969/Ford/Mustang/2-Door-Fastback-Boss-429/Values",
+   "Nation": "American",
    "Annual_Avg": 36.7,
    "Notes": "Nada",
    "Description": "The top Mustang model of the 1960s and 1970s was the Boss 429. This Boss was built solely to legalize the 429 cid V8 for NASCAR racing. The Boss 429 was conservatively rated at 385 hp but some say the real number was way higher. The motors were built with tough components which allowed them to rev up to 8,000 rpm and sound, well, like race engines while doing it. The rare Boss 429s of 1969-1970 are some of the most valuable Mustangs of all time."
@@ -632,6 +683,7 @@
    "MSRP_Orig_Starting": 3526,
    "Average_Retail": 24800,
    "Price_Source": "https://www.nadaguides.com/Cars/1970/Nissan-Datsun/240Z/2-Door-Coupe/Values",
+   "Nation": "Japanese",
    "Annual_Avg": 38.8,
    "Notes": "Nada",
    "Description": "Datsun had the perfect formula for a sports car when it launched the 240Z. The two seater was handsome to look at (and still is) borrowing a little of that scooped headlight bucket look from Jaguar’s gorgeous E-Type. But the Z was its own animal and it was one that performed well too thanks to the 151 hp straight six under that long hood and feathery 2,300 pound weight. The Z became an icon for Datsun (Nissan) and inspiration from those first ones can be seen in today’s 370Z."
@@ -644,6 +696,7 @@
    "MSRP_Orig_Starting": 22500,
    "Average_Retail": null,
    "Price_Source": "",
+   "Nation": "American",
    "Annual_Avg": 40.5,
    "Notes": "Wikipedia.com",
    "Description": "Could there be a better car to ring in the 1970s? The Stutz Blackhawk was a limited-production, Italian bodied car riding on a large American car chassis. The design was…very 1970s. And the Blackhawk was expensive ($30,000-$70,000 depending on options) but these over-the-top lux-mobiles were the choice of celebrities throughout the 1970s including Jonny Cash, Lucile Ball, and Elvis."
@@ -656,6 +709,7 @@
    "MSRP_Orig_Starting": 2946,
    "Average_Retail": 20300,
    "Price_Source": "https://www.nadaguides.com/Cars/1972/Ford/Ranchero-500/Pickup/Values",
+   "Nation": "American",
    "Annual_Avg": 41.8,
    "Notes": "Nada",
    "Description": "Before the mini trucks of the mid-70s grabbed a big chunk of the market, GM and Ford developed car-base pickup trucks based on large rear-drive car chassis. The sixth-generation of the Ford Ranchero shared some metal with the sporty Torino coupe. The car-truck mashup had grown in size and horsepower was down somewhat but you could still option up a 429 cid big block V8."
@@ -668,6 +722,7 @@
    "MSRP_Orig_Starting": 3415,
    "Average_Retail": 5575,
    "Price_Source": "https://www.nadaguides.com/Cars/1973/Chevrolet/Monte-Carlo/2-Door-Hardtop/Values",
+   "Nation": "American",
    "Annual_Avg": 44.4,
    "Notes": "Nada",
    "Description": "The Monte Carlo received a stem-to-stern remodel for 1973 with improvements in structure, performance and safety. But most importantly to coupe buyers—it had long, flowing fender lines and handsome, athletic profile. The car was a huge hit for GM, and that’s impressive considering designers had to cope with integrating the new federally mandated 5 mph bumpers. Even with stringent emissions standards, you could still get a big block 454 cid V8. At the time, the Monte Carlo was praised for its athletic handling, a trait John DeLorean mandated before leaving GM to form his own DeLorean Motor Company. "
@@ -680,6 +735,7 @@
    "MSRP_Orig_Starting": 72200,
    "Average_Retail": 1598300,
    "Price_Source": "https://www.nadaguides.com/Cars/1974/Lamborghini/Countach/LP400-2-Door-Coupe/Values",
+   "Nation": "Italian",
    "Annual_Avg": 49.3,
    "Notes": "Nada",
    "Description": "The Lamborghini Countach is associated more closely to the 1980s when it grew wide flares and a huge wing. But the wild-looking wedge with scissor doors first debuted in 1974. And for many, its these earliest cars that are the prettiest and purest form of the design. They are also the most valuable. The 375 hp V12 is magic to hear rev near its 8,000 rpm redline. Thanks to its tiny window openings, The Lambo gets hot inside even at freeway speeds. The incredibly cool Countach looks completely alien, even on today’s roads. "
@@ -692,6 +748,7 @@
    "MSRP_Orig_Starting": 5495,
    "Average_Retail": 6800,
    "Price_Source": "https://www.nadaguides.com/Cars/1975/Volvo/244/4-Door-Sedan/Values",
+   "Nation": "Swedish",
    "Annual_Avg": 53.8,
    "Notes": "Nada",
    "Description": "The Volvo 240 series, also known as the Swedish brick due to its boxy design and stout construction, ran from 1975 all the way until 1993. The useful station wagon version (245) became an icon of 1980s suburban transportation and cemented Volvo’s reputation for safety. However the rear-drive 240 was coolest when optioned with a turbo and intercooler from the mid 1980s. The wagon bodystyle combined with that potent turbo motor and a manual transmission is the holy grail many Volvo fans pine for today. "
@@ -704,6 +761,7 @@
    "MSRP_Orig_Starting": 4486,
    "Average_Retail": 4486,
    "Price_Source": "https://www.nadaguides.com/Cars/1976/Oldsmobile/Cutlass-Supreme/2-Door-Hardtop-Colonnade/Values",
+   "Nation": "American",
    "Annual_Avg": 56.9,
    "Notes": "Nada",
    "Description": "The Cutlass wasn’t all-new for 1976 but a mild freshening helped make this car line America’s best-seller for the year. Oldsmobile sold nearly half a million of these cars that year, and the coupe was the most popular model. The personal luxury coupe trend was big in the 1970s and this might have been its peak year."
@@ -716,6 +774,7 @@
    "MSRP_Orig_Starting": 5456,
    "Average_Retail": 32600,
    "Price_Source": "https://www.nadaguides.com/Cars/1977/Pontiac/Firebird/Trans-Am-2-Door-Coupe/Values",
+   "Nation": "American",
    "Annual_Avg": 60.6,
    "Notes": "Nada",
    "Description": "Perhaps no other vehicle sums up the 1970s better than a black and gold Trans Am with a giant “Screaming Chicken” on the hood. The Trans Am was quick with the T/A option that packed a 200 hp 6.6-liter V8 and it handled better than a Corvette. The hit 1977 film movie Smokey and the Bandit (which famously starred a Trans Am alongside Burt Reynolds, Jackie Gleason, and Sally Field) helped push Trans Am sales to record levels the next year."
@@ -728,6 +787,7 @@
    "MSRP_Orig_Starting": 4329,
    "Average_Retail": 2275,
    "Price_Source": "https://www.nadaguides.com/Cars/1978/Subaru/1600-DL-Brat/2-Door-4x4/Values",
+   "Nation": "Japanese",
    "Annual_Avg": 65.2,
    "Notes": "Nada",
    "Description": "The 1970s was a strange decade—especially for cars. And the Subaru BRAT (Bi-drive Recreational All-terrain Transporter) might be one of the weirdest. The BRAT came at a time when small pickups were very popular. So, combining the 4WD experience of a Subaru car with a pickup body, sort of made sense. The Subaru was inexpensive too because the two (slightly frightening) rear-facing seats in the bed which helped it to avoid the tax on imported trucks."
@@ -740,6 +800,7 @@
    "MSRP_Orig_Starting": 12553,
    "Average_Retail": 3450,
    "Price_Source": "https://www.nadaguides.com/Cars/1979/Saab/900/5-Door-Hatchback-Turbo/Values",
+   "Nation": "Swedish",
    "Annual_Avg": 72.6,
    "Notes": "Nada",
    "Description": "The nimble Saab 900 was born in a year filled with American land yachts and custom vans. The quirky, fun, and practical front-drive Saab 900 was a wildly different machine. The 900 Turbo model was not only swift but delivered performance technology way sooner than other automakers. The 900’s unpretentious European driving experience made it a hit with those that didn’t want or need the prestige of a Mercedes-Benz or BMW. "
@@ -752,6 +813,7 @@
    "MSRP_Orig_Starting": 7718,
    "Average_Retail": 10450,
    "Price_Source": "https://www.nadaguides.com/Cars/1980/American-Motors/Eagle/4-Door-Station-Wagon-4WD/Values",
+   "Nation": "American",
    "Annual_Avg": 82.4,
    "Notes": "Nada – Wagon shown in photo",
    "Description": "The AMC Eagle wagon might have seemed odd back in 1980 but in many ways, it was one of very first crossovers. That’s because the Eagle combined four-wheel drive capability with a car-like driving experience. Since AMC owned Jeep, the folks developing the Eagle had plenty of off-road expertise to draw from. So the wagon really did have the chops for mild off-roading. The high-riding Eagle even came as a sporty two-door SX/4 coupe model."
@@ -764,6 +826,7 @@
    "MSRP_Orig_Starting": 27500,
    "Average_Retail": 32900,
    "Price_Source": "https://www.nadaguides.com/Cars/1981/Delorean/DMC-12-Gullwing/2-Door-Sports-Coupe/Values",
+   "Nation": "American",
    "Annual_Avg": 90.9,
    "Notes": "Nada",
    "Description": "Its starring role in the movie Back to the Future secured the DeLorean’s prominence in 1980s pop culture. But four years earlier, the gorgeous but expensive gullwing machine had a tough time competing with Ferrari, Lotus, and Porsche to attract sports car fans. The DeLorean had just 130 hp so it wasn’t exactly quick. But it was incredible to look at and few cars represent this decade better than this stainless steel supercar."
@@ -776,6 +839,7 @@
    "MSRP_Orig_Starting": 9266,
    "Average_Retail": 2025,
    "Price_Source": "https://www.nadaguides.com/Cars/1982/Buick/Regal-Limited/2-Door-Coupe/Values",
+   "Nation": "American",
    "Annual_Avg": 96.5,
    "Notes": "Cost for regular Regal 2 Dr Coupe",
    "Description": "Buick was a powerhouse in NASCAR racing by the early 1980s. Darrel Waltrip’s Regal won the Grand National championship win in 1981. So to capitalize, Buick built a limited number of special edition Regal “Grand Nationals” for 1982. Some of these first year Grand Nationals (GN) were powered by a turbocharged V6, an engine Buick had been improving since the late-70s. By the mid 80s, the GN was a powerhouse dressed in all black and pounding out over 200 hp from that turbo V6. For the Grand National’s turbocharged finale in 1987, Buick boosted the engine to 276 hp and created the limited production GNX. The GNX was one of the quickest machines of the year hitting 60 mph in less than 5 seconds.  (Note: Costs shown are standard Regal Limited editions.)"
@@ -788,6 +852,7 @@
    "MSRP_Orig_Starting": 7990,
    "Average_Retail": 2025,
    "Price_Source": "https://www.nadaguides.com/Cars/1983/Volkswagen/Rabbit/GTI-2-Door-Hatchback/Values",
+   "Nation": "American",
    "Annual_Avg": 99.6,
    "Notes": "Nada",
    "Description": "The GTI was the first hot hatchback—the sporty compact that started it all. In 1983, the less-than $10,000 GTI was affordable German fun. Modifications to the original Rabbit, like the firmer suspension and larger 14-inch wheels and tires delivered moves on the road that made everyone that drove one smile. But with only 90 hp, that first GTI certainly wasn’t the machine to win drag races."
@@ -800,6 +865,7 @@
    "MSRP_Orig_Starting": 8280,
    "Average_Retail": 1150,
    "Price_Source": "https://www.nadaguides.com/Cars/1984/Plymouth/Voyager/Van/Values",
+   "Nation": "American",
    "Annual_Avg": 103.9,
    "Notes": "Nada",
    "Description": "The station wagon was old news in the eighties thanks to the minivan. And the very first one, the van that pioneered the trend, was launched in 1984—the Plymouth Voyager. These front-drive vans were compact, practical, and so novel at the time that they became the defacto mode of transportation for an entire generation of families. And today the Chrysler Pacifica is one of only a handful minivans that have survived the onslaught from SUVs and crossovers."
@@ -812,6 +878,7 @@
    "MSRP_Orig_Starting": 90000,
    "Average_Retail": 63900,
    "Price_Source": "",
+   "Nation": "Italian",
    "Annual_Avg": 107.6,
    "Notes": "Hemmings.com - Clean Retail from Nada",
    "Description": "If you want everyone you meet to instantly flashback to the TV series Miami Vice—drive a Testarossa. Ferrari’s top model debuted in 1985 and seemed radically advanced at the time. Those side strakes looked menacing and housed the radiators to help cool the engine. View the Ferrari from the rear it appears to have width of an 18-wheeler. The Testarossa’s flat 12-cylinder engine was a monster, rocketing the Ferrari to 60 mph in just 5 seconds. It was one of the quickest cars of the decade."
@@ -824,6 +891,7 @@
    "MSRP_Orig_Starting": 53300,
    "Average_Retail": 6800,
    "Price_Source": "https://www.nadaguides.com/Cars/1986/Mercedes-Benz/560SEL/4-Door-Sedan/Values",
+   "Nation": "German",
    "Annual_Avg": 109.6,
    "Notes": "Nada",
    "Description": "Few cars embody the lifestyle of the rich and famous in the 1980s better than the Mercedes-Benz S-Class. And the top model of the range for the decade came in 1986 when Benz installed a massive 5.6-liter V8 into its top model. The 238 hp sedan not only pampered its occupants with a smooth ride and comfy surroundings but offered safety tech like driver airbags before its rivals."
@@ -836,6 +904,7 @@
    "MSRP_Orig_Starting": 11835,
    "Average_Retail": 6200,
    "Price_Source": "https://www.nadaguides.com/Cars/1987/Ford/Mustang-GT/3-Door-Hatchback-V8/Values",
+   "Nation": "American",
    "Annual_Avg": 113.6,
    "Notes": "Nada",
    "Description": "The Mustang GT received some mild upgrades for 1987 that made the ponycar scream “80s.” From the faux-louvered tailamp covers to the aggressive side skirts and spoilers, the GT looked the performance part. The suspension was re-tuned and the 5.0-liter V8 was massaged to produce a solid 225 hp. And with a base price around $12,000, the GT was a real bargain."
@@ -848,6 +917,7 @@
    "MSRP_Orig_Starting": 46500,
    "Average_Retail": 18200,
    "Price_Source": "https://www.nadaguides.com/Cars/1988/BMW/M5/4-Door-Sedan/Values",
+   "Nation": "German",
    "Annual_Avg": 118.3,
    "Notes": "Nada",
    "Description": "The first generation (E28) M5 had a glorious 256 hp inline six-cylinder pulled right from the M1 supercar under the hood making it one of the very first modern super sport sedans. It handled magnificently and could hit 60 mph in 5.6 seconds. That first M5 was around for only one year and BMW imported less than 1,500 of them. Every one of them was painted black with a tan interior. "
@@ -860,6 +930,7 @@
    "MSRP_Orig_Starting": 35000,
    "Average_Retail": 5725,
    "Price_Source": "https://www.nadaguides.com/Cars/1990/Lexus/LS400/4-Door-Sedan/Values",
+   "Nation": "Japanese",
    "Annual_Avg": 124,
    "Notes": "Nada",
    "Description": "Up until this point, German luxury cars had almost no competition. But when Lexus was launched in 1989 as an upscale premium brand for Toyota, the pricey European sedans were undercut on price. Better still, they were upstaged on quality. The 1990 LS 400 was robustly built, luxurious, and one of the most reliable cars on the planet at the time."
@@ -872,6 +943,7 @@
    "MSRP_Orig_Starting": 13800,
    "Average_Retail": 5750,
    "Price_Source": "https://www.nadaguides.com/Cars/1990/Mazda/MX5-Miata/2-Door-Convertible/Values",
+   "Nation": "Japanese",
    "Annual_Avg": 130.7,
    "Notes": "Nada",
    "Description": "The Miata was in essence, the second coming of the classic 1960s European roadster. The tiny Miata was inexpensive (under $14,000), relatively quick, and offered poised handling on twisty backroads. It soon became the darling of amateur racers everywhere. The Miata roadster was so new and fresh at the time, there was no competition for it—and some would say that’s even true today."
@@ -884,6 +956,7 @@
    "MSRP_Orig_Starting": 14898,
    "Average_Retail": 2450,
    "Price_Source": "https://www.nadaguides.com/Cars/1991/Toyota/MR2/2-Door-Coupe/Values",
+   "Nation": "Japanese",
    "Annual_Avg": 136.2,
    "Notes": "Nada",
    "Description": "The second generation Toyota MR2 looked every bit like a micro-sized Ferrari—an extremely handsome mid-engine sports car. The new MR2 was longer, wider, roomier and thanks to the 200 hp turbocharged model, it was quicker, too. An MR2 turbo could hit 60 mph in just 6.1 seconds. That was nearly as quick as a Corvette at that time. The car was not only fun but heralded the beginning of some seriously potent Japanese sports cars."
@@ -896,6 +969,7 @@
    "MSRP_Orig_Starting": 23839,
    "Average_Retail": 1825,
    "Price_Source": "https://www.nadaguides.com/Cars/1992/Ford/Taurus-SHO/4-Door-Sedan/Values",
+   "Nation": "American",
    "Annual_Avg": 140.3,
    "Notes": "Nada",
    "Description": "The original Taurus SHO from 1989-1991 was a surprisingly powerful and competent sport sedan from Ford. The all-new 1992 model had the same heart, a high-revving 220 hp Yamaha sourced V6 but wrapped it all in a much cleaner body. However, up until this point the SHO could only be had with a five-speed manual. A new automatic option for 1993 opened the model up to more potential buyers."
@@ -908,6 +982,7 @@
    "MSRP_Orig_Starting": 18341,
    "Average_Retail": 2150,
    "Price_Source": "https://www.nadaguides.com/Cars/1993/Chrysler/Concorde/4-Door-Sedan/Values",
+   "Nation": "American",
    "Annual_Avg": 144.5,
    "Notes": "Nada",
    "Description": "Chrysler LH car program was the first all-new car to come from the company in more than a decade—and Chrysler needed it. The “cab-forward” design of these front drive sedans was not only attractive but created a roomy interior. It took just three years for these cars to go from drawing board to dealership which was an amazing feat. And these cars drove well too, far better than the K-car Chryslers of the 1980s. Our favorite? The Dodge Intrepid ES."
@@ -920,6 +995,7 @@
    "MSRP_Orig_Starting": 17450,
    "Average_Retail": 2175,
    "Price_Source": "https://www.nadaguides.com/Cars/1994/Acura/Integra-LS/4-Door-Sedan/Values",
+   "Nation": "Japanese",
    "Annual_Avg": 148.2,
    "Notes": "Nada",
    "Description": "The mid 1990s Acura Integra represented all that was wonderful about Honda engineering. Though Acura was supposed to be a luxury brand, one of its best car was actually the cheapest. The high-revving four-cylinder, sharp handling, and precise manual transmissions made them favorites for anyone that valued the driving experience. The screaming 195 hp Integra R was the performance pinnacle, arriving in 1997 and becoming a sport compact classic."
@@ -932,6 +1008,7 @@
    "MSRP_Orig_Starting": 20095,
    "Average_Retail": 3750,
    "Price_Source": "https://www.nadaguides.com/Cars/1995/Subaru/Legacy-Outback/5-Door-Wagon-All-Wheel-Drive/Values",
+   "Nation": "Japanese",
    "Annual_Avg": 152.4,
    "Notes": "Nada",
    "Description": "Subaru proclaimed it had invented the world’s first sport utility wagon for the 1995 model year. AMC might have beat them to the punch in the 1980s but still, the Outback was the right wagon at the right time. The Outback trim gave Subaru’s all-wheel drive Legacy extra ground clearance and plenty of off-road attitude. Paul Hogan as his character from the movie Crocodile Dundee, helped move the metal with some smart and memorable ads. The Outback became a massive hit for the company for the next 23 years. "
@@ -944,6 +1021,7 @@
    "MSRP_Orig_Starting": 66700,
    "Average_Retail": 32200,
    "Price_Source": "https://www.nadaguides.com/Cars/1996/Dodge/Viper-GTS/2-Door-Sport-Coupe/Values",
+   "Nation": "American",
    "Annual_Avg": 156.9,
    "Notes": "Nada",
    "Description": "The Viper was essentially a Shelby Cobra 427 for the 1990s. It was completely unexpected from Dodge at the time and shockingly quick thanks to a huge V10 engine. The GTS fastback model was new for 1996 and added some civility to the machine. Under the Viper’s snout lived an upgraded 450 horsepower and a mountain of torque. A Viper GTS could demolish the ¼ mile in the low 12-second range—better than just about anything you could buy off the showroom floor at the time. "
@@ -956,6 +1034,7 @@
    "MSRP_Orig_Starting": 39980,
    "Average_Retail": 9100,
    "Price_Source": "https://www.nadaguides.com/Cars/1997/Porsche/Boxster/2-Door-Roadster/Values",
+   "Nation": "German",
    "Annual_Avg": 160.5,
    "Notes": "Nada",
    "Description": "When the Boxster first arrived, Porsche’s new entry-level sports car was praised by everyone that drove one. With a 201 hp flat-six engine mounted amidships, the Boxster had incredible balance. Its styling was reminiscent of the legendary 550 Spyder. Once the Boxster received a bit more horsepower, some preferred the driving experience to that of the 911. The Boxster was eventually joined by the hardtop version called the Cayman in 2006. "
@@ -968,6 +1047,7 @@
    "MSRP_Orig_Starting": 37830,
    "Average_Retail": 3900,
    "Price_Source": "https://www.nadaguides.com/Cars/1998/Lincoln/Town-Car-Executive/4-Door-Sedan/Values",
+   "Nation": "American",
    "Annual_Avg": 163,
    "Notes": "Nada",
    "Description": "The Town Car may be slow and handle like a boat but its success as a transporter of people is undeniable. This is a car to ride in—not to drive. The classic Town Car received a new body for 1998 but retained the same rear drive chassis it had used since 1980. And Ford’s modular 4.6-liter V8 had supplied the power since 1990. The takeaway? That old stuff made the Town Car one of the most robust and reliable cars on the road. Limo and livery services found them to last well past 300,000 miles. "
@@ -980,6 +1060,7 @@
    "MSRP_Orig_Starting": 33205,
    "Average_Retail": 5750,
    "Price_Source": "https://www.nadaguides.com/Cars/1999/Lexus/RX300/4-Door-Utility-4WD/Values",
+   "Nation": "Japanese",
    "Annual_Avg": 166.6,
    "Notes": "Nada",
    "Description": "The RX 300 was one of the first crossovers and it really set the standard for years to come. The car-based RX used much of the same components as the Lexus ES sedan and Toyota Camry, so its parts were proven and it drove a lot like a tall car—no bad thing. The proportions were unlike the trucky SUVs at the time. The design of luxury crossovers today are so similar to the original RX300 that these first-generation Lexus’ still look modern."
@@ -992,6 +1073,7 @@
    "MSRP_Orig_Starting": 23960,
    "Average_Retail": null,
    "Price_Source": "",
+   "Nation": "American",
    "Annual_Avg": 172.2,
    "Notes": "autotrader.com",
    "Description": "The folks behind the Pontiac Aztec meant well. This ungainly flop of a crossover was supposed to be more competent, cooler-looking, and rugged. But to keep the program cheap, it used a minivan’s chassis and that made it look, well, strange. And with a van’s handling charms and a sluggish 185 hp V6, the Aztec was no fun to drive. Pontiac killed the model in 2005—just five years before the brand itself completely disappeared."
@@ -1004,6 +1086,7 @@
    "MSRP_Orig_Starting": 19995,
    "Average_Retail": null,
    "Price_Source": "",
+   "Nation": "Japanese",
    "Annual_Avg": 177.1,
    "Notes": "greencarreports.com",
    "Description": "The original Toyota Prius was far from a hit. The frumpy five door hatchback wasn’t much to look at and wasn’t fun to drive either. But this fledgling hybrid could hit 52 mpg in the city, 45 mpg on the highway and its emissions were amongst the cleanest of any car for sale in the U.S. To a growing number of buyers, that was very important stuff. Thanks to that first Prius nearly every automaker today now has a hybrid."
@@ -1016,6 +1099,7 @@
    "MSRP_Orig_Starting": 67850,
    "Average_Retail": null,
    "Price_Source": "Orig costs not in nada",
+   "Nation": "German",
    "Annual_Avg": 179.9,
    "Notes": "Autotrader.com",
    "Description": "The all-new flagship BMW pioneered a futuristic new way to operate an infotainment screen—iDrive. It was funky to use as were most of the other controls on the big Bimmer. In fact, BMW included a cheat sheet you could hand valets to help drive the car. The design wasn’t exactly pretty either. But despite all that, this BMW sold remarkably well and set the tone for BMWs cars for the next decade."
@@ -1028,6 +1112,7 @@
    "MSRP_Orig_Starting": 29582,
    "Average_Retail": 11125,
    "Price_Source": "",
+   "Nation": "Japanese",
    "Annual_Avg": 184,
    "Notes": "Cargurus.com - Clean Retail from Nada",
    "Description": "ans of Mitsubishi’s legendary rally cars were overjoyed when they could finally buy a Lancer Evolution. The Evo, as it was commonly known, was new to us but in actuality, this was the eighth-generation of the compact sedan. The Evo used a high performance turbocharged four-cylinder with 286 hp linked to a smart all-wheel drive system with modes for “Tarmac,” “Gravel,” and “Snow.” The Evo was an animal on a good twisty backroad and a weapon on the track. The final Evos of this generation, the 2006 MR, had the most goodies, including a 6-speed manual instead of a five-speed."
@@ -1040,6 +1125,7 @@
    "MSRP_Orig_Starting": 14480,
    "Average_Retail": null,
    "Price_Source": "",
+   "Nation": "Japanese",
    "Annual_Avg": 188.9,
    "Notes": "autotrader.com",
    "Description": "Toyota’s customers and its cars were getting older. To grab the attention of the “youth” market, Toyota created the Scion brand. It’s first and most successful model was the xB. The tiny box on wheels was oddly cool and popular car to customize at the time. The only real downside to the xB is that with just 108 hp—this was one very slow box."
@@ -1052,6 +1138,7 @@
    "MSRP_Orig_Starting": 30240,
    "Average_Retail": 6800,
    "Price_Source": "",
+   "Nation": "American",
    "Annual_Avg": 195.3,
    "Notes": "Cargurus.com - Clean Retail from Nada",
    "Description": "The auto industry and car buying public were equally fascinated with retro designs—and few were more successful than the 2005 Mustang. The Mustang was all-new from the chassis to its rooftop and wore sheetmetal that felt like an honest re-interpretation of the 1960s. The new Mustang was great to drive. But it only got better. Two years later the GT 500 version with a supercharged 5.4-liter V8 and 500 hp could be coaxed into running the 1.4-mile in under 13-seconds."
@@ -1064,6 +1151,7 @@
    "MSRP_Orig_Starting": 116000,
    "Average_Retail": null,
    "Price_Source": "",
+   "Nation": "German",
    "Annual_Avg": 201.6,
    "Notes": "kbb.com",
    "Description": "The 1999 Audi TT certainly looked sporty but with the bones of the VW Golf, it wasn’t really a pure-bred sports car. This time Audi shared a chassis with Lamborghini. The Audi R8 supercar was a magnificent machine. Not only was it capable and fun on a canyon road with the 420 hp V8 howling behind your head but it also proved to be a very comfortable car to drive daily. Just two years later, Audi launched the V10 model with 105 more hp."
@@ -1076,6 +1164,7 @@
    "MSRP_Orig_Starting": 16520,
    "Average_Retail": 4275,
    "Price_Source": "",
+   "Nation": "Japanese",
    "Annual_Avg": 207.3,
    "Notes": "Kbb.com - Clean Retail from Nada",
    "Description": "The Honda Fit might not have been the most glamourous new car debut of the year, but the Fit brought together practicality, affordability, and fun like no other subcompact car at the time. The humble fit could haul plenty of gear in its cargo hold, and when Honda’s “Magic Seat” was flipped forward—the Fit could fit taller objects too. The 1.5-liter four-cylinder wasn’t a screamer but the chassis was very responsive, the steering was quick, and the five-speed manual was one of the best of any car."
@@ -1088,6 +1177,7 @@
    "MSRP_Orig_Starting": 37995,
    "Average_Retail": 15875,
    "Price_Source": "",
+   "Nation": "American",
    "Annual_Avg": 215.3,
    "Notes": "Caranddriver.com – Clean Retail from Nada",
    "Description": "The Dodge Challenger made waves when it launched in 2008. It looked just as cool as the concept car from two years before and under that twin nostrilled hood was a 425 hp Hemi V8 hitched to an automatic. Muscle car fans were in heaven. Eventually smaller engines were added to the mix and the options list expended to include a robust six-speed manual. Today’s SRT Challenger Hellcat Red Eye is one of the most powerful cars in the world with 797 hp."
@@ -1100,6 +1190,7 @@
    "MSRP_Orig_Starting": 78000,
    "Average_Retail": 37800,
    "Price_Source": "",
+   "Nation": "Japanese",
    "Annual_Avg": 214.5,
    "Notes": "Kbb.com - Clean Retail from Nada",
    "Description": "The Nissan GT-R was a Japanese exotic car fantasy for many that finally became a reality. After decades ogling the specs of Nissan’s most potent and technically advanced Skyline sports coupes from afar, GT-R fans in the U.S. finally got a taste. This latest 480 hp version of “Godzilla” was not only ridiculously quick but with computerized modes controlling almost every aspect of the drive, it was one of the most advanced cars at the time. Today’s 565 hp version is still a good deal at less than $100,000."
@@ -1112,6 +1203,7 @@
    "MSRP_Orig_Starting": 21000,
    "Average_Retail": null,
    "Price_Source": "",
+   "Nation": "Japanese",
    "Annual_Avg": 218.1,
    "Notes": "autoblog.com",
    "Description": "In the midst of the economic darkness of 2009, Toyota trotted out the all-new Prius. It couldn’t have come at a better time for those that needed a new car and save some bucks at the pump. This was the first Prius that was truly mainstream. Plus it could top 50 mpg. And it had more space inside to haul people and stuff. The success of this Prius laid the groundwork for a family of Prius-branded hybrid vehicles."
@@ -1124,6 +1216,7 @@
    "MSRP_Orig_Starting": 40280,
    "Average_Retail": 6325,
    "Price_Source": "",
+   "Nation": "American",
    "Annual_Avg": 224.9,
    "Notes": "USNews.com – Clean Retail from Nada",
    "Description": "The Chevy Volt was GM’s electric car moonshot. The company spent, according to some estimates, close to $1 billion to develop the Volt. And as one might imagine GM was very proud of its 400 pound “T” shaped battery pack and how it fit into the chassis. The pack allowed the Volt to travel between 25-50 miles on a charge (depending on conditions) before the small gas engine would kick-in and help charge the pack. GM predicted they’d sell around 60,000 of them per year but it took until 2016 for the model to pass 100,000 units. Chevy’s all-electric Bolt outsold the more complicated two-powertrain Volt in 2017."
@@ -1136,6 +1229,7 @@
    "MSRP_Orig_Starting": 67400,
    "Average_Retail": null,
    "Price_Source": "",
+   "Nation": "American",
    "Annual_Avg": 229.6,
    "Notes": "greencarreports.com",
    "Description": "The Model S was Tesla’s first clean-sheet new car design. The sedan was unlike any EV that had come before it thanks to that giant iPad-like center screen, brutal acceleration, and it’s incredible driving range. The Model S was the first EV you could take on a road trip. The top spec Model S could reach 265 miles on a charge and travel even further when using the company’s Supercharger network. Six years later, automakers are just starting to close in on Tesla’s range. The Tesla Model S changed the way the world viewed EVs, and its success and paved the way for the smaller Model 3."
@@ -1148,6 +1242,7 @@
    "MSRP_Orig_Starting": 26265,
    "Average_Retail": null,
    "Price_Source": "",
+   "Nation": "Japanese",
    "Annual_Avg": 233,
    "Notes": "kbb.com",
    "Description": "The joint venture between Subaru and Toyota resulted in one very sweet sports car. The BRZ/FR-S twins had sharp handling as well as a low price point of just over $25,000 that made these coupes a direct competitor to Mazda’s Miata. And fans of affordable performance were ecstatic. Buyers were hopeful for a turbocharged model but it never happened. It’s now five years later and these twins have barely changed aside from Toyota branding in place of now-defunct Scion."
@@ -1160,6 +1255,7 @@
    "MSRP_Orig_Starting": 51995,
    "Average_Retail": 28700,
    "Price_Source": "",
+   "Nation": "American",
    "Annual_Avg": 236.7,
    "Notes": "Chevrolet.com – Clean Retail from Nada",
    "Description": "New Corvettes don’t happen very often. The last one (C6) had been around since 2005 and in terms of design, it was an evolution of the one that came before it. However this new 7th generation of America’s sports car broke through with new styling, a new 455 hp V8, and five drive modes to adapt the Vette to any road (or track). One year later, the high performance Z06 model joined the lineup. And this year, you can have a bonkers 755 ZR1 model for a cool $120,000."
@@ -1172,6 +1268,7 @@
    "MSRP_Orig_Starting": 27600,
    "Average_Retail": null,
    "Price_Source": "",
+   "Nation": "Korean",
    "Annual_Avg": 237,
    "Notes": "",
    "Description": "The original Genesis helped American buyers understand that Hyundai was capable of building upscale vehicles that could perform on the world stage. And the remodel of the flagship Hyundai was so good it sent an even stronger message: Hyundai was ready for its own luxury division. That same year “Genesis” was announced as its own luxury brand. Today, the two car model line awaits the arrival of its first crossover."
@@ -1184,6 +1281,7 @@
    "MSRP_Orig_Starting": 19440,
    "Average_Retail": null,
    "Price_Source": "",
+   "Nation": "Japanese",
    "Annual_Avg": 240,
    "Notes": "Autotrader.com",
    "Description": "Americans had begun to move away from cars in serious numbers. One way to keep them interested? Create a compact sedan that does absolutely everything well. The new, 10th generation Civic was practically as roomy as a midsize sedan on the inside and rode comfortably, too. And yet, it was responsive and fun-to-drive on a backroad. The design both inside and out was fresh, bold, and made all other compacts look suddenly dated. The Civic family now includes high performance Si and Type R models that are some of the best cars in their class."
@@ -1196,6 +1294,7 @@
    "MSRP_Orig_Starting": 36620,
    "Average_Retail": 20325,
    "Price_Source": "https://www.nadaguides.com/Cars/2017/Chevrolet/Bolt-EV/5dr-HB-LT/Pricing",
+   "Nation": "American",
    "Annual_Avg": 245.1,
    "Notes": "New Costs vs Clean Retail",
    "Description": "Sure, Tesla’s expensive and brilliant Model S had plenty of electric range. But the Chevy Bolt was the first electric mainstream American car to deliver over 200 miles on a charge. In fact at 238 miles, the Bolt’s range was exceptional. The Bolt drove well, too. It was quick, agile, roomy enough for four people, and priced under $30,000 thanks to the federal tax credit. The Bolt soon became a best-selling EV."
@@ -1208,6 +1307,7 @@
    "MSRP_Orig_Starting": 36000,
    "Average_Retail": null,
    "Price_Source": "",
+   "Nation": "American",
    "Annual_Avg": 251.1,
    "Notes": "kbb.com",
    "Description": "Tesla’s third all-new model since the very first Roadster a decade ago promised a tantalizing sport sedan: a pricetag far cheaper than the Model S, a 300 mile range, 0-60 mph around 3 seconds, and nimble handling. Tesla delivered on the specs and the car officially went on sale in 2017. Yet less than 2,000 were built. This year, Elon Musk’s car company has so far proven that it can mass-produce EVs. As of August, Tesla has sold over 50,000 Model 3s and has become one of the best-selling cars in the U.S. "
